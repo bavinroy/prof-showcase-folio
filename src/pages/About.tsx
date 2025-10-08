@@ -30,7 +30,7 @@ const About = () => {
                 
                 <div className="space-y-6 ml-13">
                   <div className="border-l-2 border-primary/20 pl-6">
-                    <p className="font-semibold text-lg">Ph.D. in Computer Science</p>
+                    <p className="font-semibold text-lg">Ph.D. in Information Technology</p>
                     <p className="text-muted-foreground">Stanford University, 2018</p>
                     <p className="text-sm mt-1">Dissertation: "Ethical Frameworks for Machine Learning Systems"</p>
                   </div>

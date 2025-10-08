@@ -18,7 +18,7 @@ const Home = () => {
               <div className="space-y-8 animate-slide-up">
                 <div>
                   <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-balance mb-4">
-                    Dr. Sarah Thompson
+                    R . BAVIN KUMAR
                   </h1>
                   <p className="text-xl md:text-2xl text-primary font-medium mb-6">
                     Assistant Professor of Computer Science
